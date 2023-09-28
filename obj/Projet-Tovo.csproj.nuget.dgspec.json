@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\Projet-Tovo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\Projet-Tovo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\Projet-Tovo.csproj",
+        "projectName": "Projet-Tovo",
+        "projectPath": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\Projet-Tovo.csproj",
+        "packagesPath": "C:\\Users\\miali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\miali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

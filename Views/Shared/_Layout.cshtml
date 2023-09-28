@@ -1,0 +1,230 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Projet_Tovo</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Projet_Tovo.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/responsive.css" rel="stylesheet" />
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div>
+                @* <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">IT-Vaika</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div> *@
+                <div class="hero_area">
+                    <!-- header section strats -->
+                    <header class="header_section">
+                    <div class="container">
+                        <nav class="navbar navbar-expand-lg custom_nav-container ">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="images/logo.png" alt="">
+                            <span>
+                            IT-Vaika
+                            </span>
+                        </a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="s-1"> </span>
+                            <span class="s-2"> </span>
+                            <span class="s-3"> </span>
+                        </button>
+
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+                            <ul class="navbar-nav  ">
+                                <li class="nav-item active">
+                                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item">
+                                <a class="nav-link" href="about.html"> About</a>
+                                </li>
+                                <li class="nav-item">
+                                <a class="nav-link" href="service.html"> Service </a>
+                                </li>
+                                <li class="nav-item">
+                                <a class="nav-link" href="blog.html"> Blog </a>
+                                </li>
+                                <li class="nav-item">
+                                <a class="nav-link" href="contact.html">Contact </a>
+                                </li>
+                            </ul>
+                            </div>
+                        </div>
+                        </nav>
+                    </div>
+                    </header>
+                    <!-- end header section -->
+                    <!-- slider section -->
+                    <section class=" slider_section " style="width: 1450px;">
+                    <div class="container">
+                        <div class="row">
+                        <div class="col-md-6 ">
+                            <div class="detail_box">
+                            <h1>
+                                RECRUTEMENT <br>
+                                DE <br>
+                                TALENTS
+                            </h1>
+                            <p>
+                                La lisibilité de l'offre d'emploi est cruciale pour capter l'attention des candidats, soulignant ainsi l'importance d'une présentation soignée.
+                            </p>
+                            <a href="" class="">
+                                Découvrir nos offres
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-6 offset-lg-1" style="margin-left: 650px;margin-top: -306px;">
+                            <div class="img_content">
+                            <div class="img_container">
+                                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                    <div class="img-box">
+                                        <img src="images/image-head-2.jpeg" style="width: 470px;" alt="">
+                                    </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                    <div class="img-box">
+                                        <img src="images/image-head-2.jpeg" style="width: 470px;" alt="">
+                                    </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                    <div class="img-box">
+                                        <img src="images/image-head-2.jpeg" style="width: 470px;" alt="">
+                                    </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <span class="sr-only">Next</span>
+                            </a>
+                            </div>
+
+                        </div>
+                        </div>
+                    </div>
+                    </section>
+                    <!-- end slider section -->
+                </div>
+
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <section class="info_section layout_padding">
+        <div class="container">
+        <div class="info_contact">
+            <div class="row">
+            <div class="col-md-4">
+                <a href="">
+                <img src="images/location-white.png" alt="">
+                <span>
+                    Passages of Lorem Ipsum available
+                </span>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="">
+                <img src="images/telephone-white.png" alt="">
+                <span>
+                    Call : +012334567890
+                </span>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="">
+                <img src="images/envelope-white.png" alt="">
+                <span>
+                    demo@gmail.com
+                </span>
+                </a>
+            </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8 col-lg-9">
+            <div class="info_form">
+                <form action="">
+                <input type="text" placeholder="Enter your email">
+                <button>
+                    subscribe
+                </button>
+                </form>
+            </div>
+            </div>
+            <div class="col-md-4 col-lg-3">
+            <div class="info_social">
+                <div>
+                <a href="">
+                    <img src="images/fb.png" alt="">
+                </a>
+                </div>
+                <div>
+                <a href="">
+                    <img src="images/twitter.png" alt="">
+                </a>
+                </div>
+                <div>
+                <a href="">
+                    <img src="images/linkedin.png" alt="">
+                </a>
+                </div>
+                <div>
+                <a href="">
+                    <img src="images/instagram.png" alt="">
+                </a>
+                </div>
+            </div>
+            </div>
+        </div>
+
+        </div>
+    </section>
+
+    <footer class="container-fluid footer_section">
+        <div class="container">
+        <div class="row">
+            <div class="col-lg-7 col-md-9 mx-auto">
+            <p>
+                &copy; 2019 All Rights Reserved By Loann-Mialivola-Sariaka
+            </p>
+            </div>
+        </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
