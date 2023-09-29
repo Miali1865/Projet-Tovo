@@ -385,6 +385,22 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\data.sql",
+      "PackagePath": "staticwebassets\\sql\\data.sql"
+    },
+    {
+      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\drop.sql",
+      "PackagePath": "staticwebassets\\sql\\drop.sql"
+    },
+    {
+      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\table.sql",
+      "PackagePath": "staticwebassets\\sql\\table.sql"
+    },
+    {
+      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\view.sql",
+      "PackagePath": "staticwebassets\\sql\\view.sql"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Projet-Tovo.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
