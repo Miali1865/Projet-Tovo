@@ -1,0 +1,52 @@
+@model PageViewModel
+
+@{
+    ViewData["Title"] = "Detail Back Office";
+    Layout = "_Layout"; // Spécifiez le nom du fichier de mise en page ici
+}
+
+<!-- Le reste du contenu spécifique à votre page "detail" va ici -->
+<main role="main" class="pb-3">
+    <h1>@Model.Title</h1>
+    <section class="contact_section layout_padding">
+        <div class="container ">
+        <div class="heading_container">
+            <h2>Remplir quelques informations
+            </h2>
+            <img src="images/plug.png" alt="">
+        </div>
+        </div>
+        <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+            <form method="post" asp-controller="NomDuController" asp-action="MonAction">
+                <div>
+                <input type="text" placeholder="Name" />
+                </div>
+                <div>
+                <input type="email" placeholder="Email" />
+                </div>
+                <div>
+                <input type="text" placeholder="Phone Number" />
+                </div>
+                <div>
+                <input type="text" class="message-box" placeholder="Message" />
+                </div>
+                <div class="d-flex ">
+                <button>
+                    SEND
+                </button>
+                </div>
+            </form>
+            </div>
+            <div class="col-md-6">
+            <div class="map_container">
+                <div class="map-responsive">
+                <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&q=Eiffel+Tower+Paris+France" width="600" height="300" frameborder="0" style="border:0; width: 100%; height:100%" allowfullscreen></iframe>
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>
+    </section>
+</main>
