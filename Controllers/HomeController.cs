@@ -18,6 +18,17 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult Detail()
+    {
+        // Chargez les données depuis votre base de données ou une autre source
+        var DetailPoste = new PageViewModel
+        {
+            Title = "Remplir plus de détails",
+            Content = "Veuillez remplir les champs suivant"
+        };
+        return View(DetailPoste);
+    }
+
     public IActionResult Privacy()
     {
         return View();
