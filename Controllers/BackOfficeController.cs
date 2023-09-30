@@ -36,6 +36,12 @@ namespace Projet_Tovo.Controllers
             return View(Detail);
         }
 
+
+        [Route("CreateCV")]
+        public IActionResult CreateCV(){
+            return View();
+        }
+
         [Route("Error")]
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
