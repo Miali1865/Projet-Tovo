@@ -39,7 +39,7 @@ namespace Projet_Tovo.Controllers
 
         [Route("CreateCV")]
         public IActionResult CreateCV(){
-            return View();
+            return View(CreateCV);
         }
 
         [Route("Error")]

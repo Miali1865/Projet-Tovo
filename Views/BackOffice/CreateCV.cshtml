@@ -1,8 +1,88 @@
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Création de la demande";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!-- Le reste du contenu spécifique à votre page "detail" va ici -->
+<main role="main" class="pb-3">
+    <section class="contact_section layout_padding">
+        <div class="container ">
+        <div class="heading_container">
+            <h2>Création de la demande d'emploie
+            </h2>
+            <img src="images/plug.png" alt="">
+        </div>
+        </div>
+        <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <form method="post" asp-controller="" asp-action="">
+                    <div>
+                        <select name="poste" id="">
+                            <option value="">Poste</option>
+                            <option value="1">Poste 1</option>
+                            <option value="1">Poste 2</option>
+                        </select>
+                    </div>
+                    <div>
+                        <input type="number" placeholder="Nombre" />
+                    </div>
+                    <div>
+                        <select name="poste" id="">
+                            <option value="">Type</option>
+                            <option value="1">Type 1</option>
+                            <option value="1">Type 2</option>
+                        </select>
+                    </div>
+                    <div style="display: inline-flex;">
+                        <input type="text" id="lieu" placeholder="Lieu" style="width: 350px;"/>
+                        <input type="number" placeholder="Coefficient" style="margin-left: 20px;"/>
+                    </div>
+                    <div style="display: inline-flex;">
+                        <input type="text" id="lieu" placeholder="Age 1"/>
+                        <input type="text" id="lieu" placeholder="Age 2" style="margin-left: 20px;"/>
+                        <input type="number" placeholder="Coefficient" style="margin-left: 20px;"/>
+                    </div>
+                    <div>
+                        <select name="poste" id="">
+                            <option value="">Sexe</option>
+                            <option value="1">Homme</option>
+                            <option value="2">Femme</option>
+                            <option value="3">Unisexe</option>
+                        </select>
+                    </div>
+                    <div style="display: inline-flex;">
+                        <input type="text" name="diplome" placeholder="Diplôme"/>
+                        <input type="text" name="filiere" placeholder="Filière" style="margin-left: 20px;"/>
+                        <input type="number" placeholder="Coefficient" style="margin-left: 20px;"/>
+                    </div>
+                    <div style="display: inline-flex;">
+                        <input type="text" id="lieu" placeholder="Nationalité" style="width: 350px;"/>
+                        <input type="number" placeholder="Coefficient" style="margin-left: 20px;"/>
+                    </div>
+                    <div style="display: inline-flex;">
+                        <input type="text" id="lieu" placeholder="Experience" style="width: 350px;"/>
+                        <input type="number" placeholder="Coefficient" style="margin-left: 20px;"/>
+                    </div>
+                    <div style="display: inline-flex;">
+                        <label for="" style="margin-right: 85px;">Date limite de dépôt de dossier </label>
+                        <input type="date"/>
+                    </div>
+                    <div class="d-flex ">
+                    <button type="submit">
+                        SEND
+                    </button>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-6">
+            <div class="map_container">
+                <div class="map-responsive">
+                <img src="~/images/image-head-8.jpg" alt="" width="600" height="300" frameborder="0" style="border:0; width: 100%; height:100%" allowfullscreen>
+                @* <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&q=Eiffel+Tower+Paris+France" width="600" height="300" frameborder="0" style="border:0; width: 100%; height:100%" allowfullscreen></iframe> *@
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>
+    </section>
+</main>

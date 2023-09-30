@@ -258,6 +258,15 @@ select {
 
 select {
   word-wrap: normal;
+  width: 100%;
+  border: none;
+  height: 50px;
+  margin-bottom: 25px;
+  padding-left: 25px;
+  background-color: transparent;
+  outline: none;
+  color: #101010;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
 }
 
 button,
