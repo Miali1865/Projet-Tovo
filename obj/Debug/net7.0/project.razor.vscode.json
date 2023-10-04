@@ -24027,16 +24027,6 @@
   "RootNamespace": "Projet_Tovo",
   "Documents": [
     {
-      "FilePath": "d:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Views\\BackOffice\\CreateCV.cshtml",
-      "TargetPath": "Views\\BackOffice\\CreateCV.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Views\\BackOffice\\Detail.cshtml",
-      "TargetPath": "Views\\BackOffice\\Detail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -24069,6 +24059,16 @@
     {
       "FilePath": "d:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Views\\BackOffice\\CreateCV.cshtml",
+      "TargetPath": "Views\\BackOffice\\CreateCV.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Views\\BackOffice\\Detail.cshtml",
+      "TargetPath": "Views\\BackOffice\\Detail.cshtml",
       "FileKind": "mvc"
     }
   ]
