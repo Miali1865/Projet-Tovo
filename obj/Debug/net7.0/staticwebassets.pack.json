@@ -1,411 +1,419 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projet-Tovo.bundle.scp.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projet-Tovo.bundle.scp.css",
       "PackagePath": "staticwebassets\\Projet-Tovo.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\bootstrap.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\responsive.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\site.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\style.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\style.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\style.css.map",
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\style.scss",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\style.scss",
       "PackagePath": "staticwebassets\\css\\style.scss"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\favicon.ico",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\about-img1.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\about-img1.jpg",
       "PackagePath": "staticwebassets\\images\\about-img1.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\about-img2.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\about-img2.jpg",
       "PackagePath": "staticwebassets\\images\\about-img2.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\blog1.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\blog1.jpg",
       "PackagePath": "staticwebassets\\images\\blog1.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\blog2.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\blog2.jpg",
       "PackagePath": "staticwebassets\\images\\blog2.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\envelope-white.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\envelope-white.png",
       "PackagePath": "staticwebassets\\images\\envelope-white.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\fb.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\fb.png",
       "PackagePath": "staticwebassets\\images\\fb.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-2.jpeg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-2.jpeg",
       "PackagePath": "staticwebassets\\images\\image-head-2.jpeg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-3.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-3.jpg",
       "PackagePath": "staticwebassets\\images\\image-head-3.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-4.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-4.jpg",
       "PackagePath": "staticwebassets\\images\\image-head-4.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-5.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-5.jpg",
       "PackagePath": "staticwebassets\\images\\image-head-5.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-6.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-6.jpg",
       "PackagePath": "staticwebassets\\images\\image-head-6.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-7.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-7.jpg",
       "PackagePath": "staticwebassets\\images\\image-head-7.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\insta.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-8.jpg",
+      "PackagePath": "staticwebassets\\images\\image-head-8.jpg"
+    },
+    {
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-9.jpg",
+      "PackagePath": "staticwebassets\\images\\image-head-9.jpg"
+    },
+    {
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\insta.png",
       "PackagePath": "staticwebassets\\images\\insta.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\instagram.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\instagram.png",
       "PackagePath": "staticwebassets\\images\\instagram.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\linkedin.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\linkedin.png",
       "PackagePath": "staticwebassets\\images\\linkedin.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\location-white.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\location-white.png",
       "PackagePath": "staticwebassets\\images\\location-white.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\logo.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\menu.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\menu.png",
       "PackagePath": "staticwebassets\\images\\menu.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\next.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\next.png",
       "PackagePath": "staticwebassets\\images\\next.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\plug.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\plug.png",
       "PackagePath": "staticwebassets\\images\\plug.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\prev.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\prev.png",
       "PackagePath": "staticwebassets\\images\\prev.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s1.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s1.png",
       "PackagePath": "staticwebassets\\images\\s1.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s2.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s2.png",
       "PackagePath": "staticwebassets\\images\\s2.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s3.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s3.png",
       "PackagePath": "staticwebassets\\images\\s3.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s4.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s4.png",
       "PackagePath": "staticwebassets\\images\\s4.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s5.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s5.png",
       "PackagePath": "staticwebassets\\images\\s5.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\slider-img.jpg",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\slider-img.jpg",
       "PackagePath": "staticwebassets\\images\\slider-img.jpg"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\telephone-white.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\telephone-white.png",
       "PackagePath": "staticwebassets\\images\\telephone-white.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\twitter.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\twitter.png",
       "PackagePath": "staticwebassets\\images\\twitter.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\youtube.png",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\youtube.png",
       "PackagePath": "staticwebassets\\images\\youtube.png"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\js\\bootstrap.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\js\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\js\\site.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\data.sql",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\sql\\data.sql",
       "PackagePath": "staticwebassets\\sql\\data.sql"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\drop.sql",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\sql\\drop.sql",
       "PackagePath": "staticwebassets\\sql\\drop.sql"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\table.sql",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\sql\\table.sql",
       "PackagePath": "staticwebassets\\sql\\table.sql"
     },
     {
-      "Id": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\view.sql",
+      "Id": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\sql\\view.sql",
       "PackagePath": "staticwebassets\\sql\\view.sql"
     },
     {

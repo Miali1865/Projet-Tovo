@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D3kbyAkNWax8LT5x6m74diGlBotcvb/cAXvgoH8iAfg=",
+  "Hash": "acVf+aMcwc7Y/xpEtQp0tKOul5W9AQexkT/8QWyRMto=",
   "Source": "Projet-Tovo",
   "BasePath": "_content/Projet-Tovo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Projet-Tovo\\wwwroot",
       "Source": "Projet-Tovo",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Projet-Tovo.styles.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Projet-Tovo.styles.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "Projet-Tovo.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Projet-Tovo.styles.css"
+      "OriginalItemSpec": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Projet-Tovo.styles.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projet-Tovo.bundle.scp.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projet-Tovo.bundle.scp.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "Projet-Tovo.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projet-Tovo.bundle.scp.css"
+      "OriginalItemSpec": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projet-Tovo.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\bootstrap.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\responsive.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\responsive.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\site.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\site.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\style.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\style.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\style.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\style.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\css\\style.scss",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\css\\style.scss",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "css/style.scss",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\favicon.ico",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\favicon.ico",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\about-img1.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\about-img1.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/about-img1.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img1.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\about-img2.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\about-img2.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/about-img2.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img2.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\blog1.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\blog1.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/blog1.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog1.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\blog2.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\blog2.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/blog2.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog2.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\envelope-white.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\envelope-white.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/envelope-white.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\envelope-white.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\fb.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\fb.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/fb.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fb.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-2.jpeg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-2.jpeg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/image-head-2.jpeg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image-head-2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-3.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-3.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/image-head-3.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image-head-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-4.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-4.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/image-head-4.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image-head-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-5.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-5.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/image-head-5.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image-head-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-6.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-6.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/image-head-6.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image-head-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-7.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-7.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/image-head-7.jpg",
       "AssetKind": "All",
@@ -374,10 +374,44 @@
       "OriginalItemSpec": "wwwroot\\images\\image-head-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\insta.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-8.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
+      "BasePath": "_content/Projet-Tovo",
+      "RelativePath": "images/image-head-8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-head-8.jpg"
+    },
+    {
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\image-head-9.jpg",
+      "SourceId": "Projet-Tovo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
+      "BasePath": "_content/Projet-Tovo",
+      "RelativePath": "images/image-head-9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-head-9.jpg"
+    },
+    {
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\insta.png",
+      "SourceId": "Projet-Tovo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/insta.png",
       "AssetKind": "All",
@@ -391,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\insta.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\instagram.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\instagram.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/instagram.png",
       "AssetKind": "All",
@@ -408,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\linkedin.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\linkedin.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/linkedin.png",
       "AssetKind": "All",
@@ -425,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\linkedin.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\location-white.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\location-white.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/location-white.png",
       "AssetKind": "All",
@@ -442,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\location-white.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\logo.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\logo.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -459,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\menu.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\menu.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/menu.png",
       "AssetKind": "All",
@@ -476,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\next.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\next.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/next.png",
       "AssetKind": "All",
@@ -493,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\next.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\plug.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\plug.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/plug.png",
       "AssetKind": "All",
@@ -510,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\plug.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\prev.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\prev.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/prev.png",
       "AssetKind": "All",
@@ -527,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prev.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s1.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s1.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/s1.png",
       "AssetKind": "All",
@@ -544,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s1.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s2.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s2.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/s2.png",
       "AssetKind": "All",
@@ -561,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s2.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s3.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s3.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/s3.png",
       "AssetKind": "All",
@@ -578,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s3.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s4.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s4.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/s4.png",
       "AssetKind": "All",
@@ -595,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s4.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\s5.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\s5.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/s5.png",
       "AssetKind": "All",
@@ -612,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s5.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\slider-img.jpg",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\slider-img.jpg",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/slider-img.jpg",
       "AssetKind": "All",
@@ -629,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\telephone-white.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\telephone-white.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/telephone-white.png",
       "AssetKind": "All",
@@ -646,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\telephone-white.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\twitter.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\twitter.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/twitter.png",
       "AssetKind": "All",
@@ -663,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\twitter.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\images\\youtube.png",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\images\\youtube.png",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "images/youtube.png",
       "AssetKind": "All",
@@ -680,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\youtube.png"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\js\\bootstrap.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\js\\bootstrap.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -697,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\js\\jquery-3.4.1.min.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "js/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -714,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\js\\site.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\js\\site.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -731,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -748,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -765,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -782,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -799,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -816,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -833,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -850,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -867,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -884,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -901,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -918,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -935,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -952,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1020,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1156,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1173,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1190,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1224,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1241,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1258,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1292,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1309,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1326,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1343,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1360,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1377,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1394,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1411,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1428,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1445,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1462,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1479,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1496,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1513,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1530,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1564,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1581,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1598,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1615,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1632,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1649,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1666,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1683,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1700,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\data.sql",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\sql\\data.sql",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "sql/data.sql",
       "AssetKind": "All",
@@ -1717,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\sql\\data.sql"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\drop.sql",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\sql\\drop.sql",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "sql/drop.sql",
       "AssetKind": "All",
@@ -1734,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\sql\\drop.sql"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\table.sql",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\sql\\table.sql",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "sql/table.sql",
       "AssetKind": "All",
@@ -1751,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\sql\\table.sql"
     },
     {
-      "Identity": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\sql\\view.sql",
+      "Identity": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\sql\\view.sql",
       "SourceId": "Projet-Tovo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\wwwroot\\",
+      "ContentRoot": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\wwwroot\\",
       "BasePath": "_content/Projet-Tovo",
       "RelativePath": "sql/view.sql",
       "AssetKind": "All",

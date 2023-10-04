@@ -20,9 +20,7 @@
         <div class="row">
             <div class="col-md-6">
                 <form method="post" asp-controller="BackOfficeController" asp-action="Detail">
-                    <div>
-                    <input type="text" placeholder="Poste" />
-                    </div>
+                    <h5> Ajout secteur </h5>
                     <div>
                     <input type="text" placeholder="Secteur" />
                     </div>
@@ -33,6 +31,23 @@
                     </div>
                 </form>
                 <form method="post" asp-controller="BackOfficeController" asp-action="Detail">
+                    <h5> Ajout poste/secteur </h5>
+                    <div>
+                    <input type="text" placeholder="Poste" />
+                    </div>
+                    <div>
+                    <select>
+                        <option> Secteur </option>
+                    </select>
+                    </div>
+                    <div class="d-flex ">
+                    <button type="submit">
+                        SEND
+                    </button>
+                    </div>
+                </form>
+                <form method="post" asp-controller="BackOfficeController" asp-action="Detail">
+                    <h5> Ajout diplôme </h5>
                     <div>
                     <input type="text" class="message-box" placeholder="Diplôme" />
                     </div>

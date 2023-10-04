@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\Projet-Tovo.csproj": {}
+    "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Projet-Tovo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\Projet-Tovo.csproj": {
+    "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Projet-Tovo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\Projet-Tovo.csproj",
+        "projectUniqueName": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Projet-Tovo.csproj",
         "projectName": "Projet-Tovo",
-        "projectPath": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\Projet-Tovo.csproj",
-        "packagesPath": "C:\\Users\\miali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miali\\Documents\\3eme_annee\\S5\\Tovo\\Projet-Tovo\\obj\\",
+        "projectPath": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\Projet-Tovo.csproj",
+        "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
+        "outputPath": "D:\\L.E\\Exercices\\M.Tovo\\Projet-Tovo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\miali\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\raman\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +37,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
