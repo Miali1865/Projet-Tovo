@@ -94,3 +94,9 @@ D:\L.E\Exercices\M.Tovo\Projet-Tovo\obj\Debug\net7.0\scopedcss\projectbundle\Pro
 D:\L.E\Exercices\M.Tovo\Projet-Tovo\obj\Debug\net7.0\Projet-Tovo.csproj.CopyComplete
 D:\L.E\Exercices\M.Tovo\Projet-Tovo\obj\Debug\net7.0\Projet-Tovo.genruntimeconfig.cache
 D:\L.E\Exercices\M.Tovo\Projet-Tovo\obj\Debug\net7.0\ref\Projet-Tovo.dll
+D:\L.E\Exercices\M.Tovo\Projet-Tovo\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\L.E\Exercices\M.Tovo\Projet-Tovo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\L.E\Exercices\M.Tovo\Projet-Tovo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\L.E\Exercices\M.Tovo\Projet-Tovo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\L.E\Exercices\M.Tovo\Projet-Tovo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\L.E\Exercices\M.Tovo\Projet-Tovo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

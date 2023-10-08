@@ -1,8 +1,7 @@
-using System;
-using System.Collections.Generic;
+using System.Data.SqlClient;
 using Npgsql;
-using Dapper;
 using itvaika.Co;
+
 
 namespace itvaika.Departement
 {
@@ -22,24 +21,34 @@ namespace itvaika.Departement
             this.secteur = secteur;
         }
 
-        public static List<Departement> listeDepartements(Connexion co)
+        public Departement()
         {
-            List<Departement> lp = new List<Departement>();
-            
-            try
-            {
-                using (NpgsqlConnection connection = co.seConnecter())
-                {
-                    string query = "SELECT * FROM departement";
-                    lp = connection.Query<Departement>(query).ToList();
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Erreur lors de la récupération des départements : {ex.Message}");
-            }
-            
-            return lp;
         }
+
+        // public List<Departement> GetDepartements(Connexion connexion){
+        //     List<Departement> ld = new List<Departement>();
+        //     string query = "SELECT * FROM departement";
+        //     SqlCommand sql = new SqlCommand(query,connexion.seConnecter());
+        //     SqlDataReader reader = sql.ExecuteReader();
+
+        //     try
+        //     {
+        //         while (reader.Read())
+        //         {
+        //             Departement d = new Departement();
+        //             d.idDepartement = (int)reader["idDepartement"];
+        //             d.secteur = (String)reader["secteur"];
+
+        //             ld.Add(d);
+        //             Console.WriteLine(ld.Count);
+        //         }
+        //         reader.Close();
+        //     }
+        //     catch (Exception ex)
+        //     {
+            
+        //     }
+        //     return ld;
+        // }
     }
 }
